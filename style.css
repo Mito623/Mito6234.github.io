@@ -306,14 +306,14 @@ section {
 .top {
   width: 100%;
   height: 648px;
-  background: url(https://Mito623.github.io/Mito6234.github.io/mv.png) no-repeat center center/cover;
+  background: url('https://Mito623.github.io/Mito6234.github.io/mv.png') no-repeat center center/cover;
   padding-top: 228px;
 }
 
 @media screen and (max-width: 767px) {
   .top {
     height: 667px;
-    background: url(https://Mito623.github.io/Mito6234.github.io/mv.png) no-repeat left center/cover;
+    background: url('https://Mito623.github.io/Mito6234.github.io/mv.png') no-repeat left center/cover;
     padding-top: 222px;
   }
 }
@@ -435,7 +435,7 @@ section {
           transform: translateY(-50%);
   width: 14px;
   height: 23.5px;
-  background: url(https://Mito623.github.io/Mito6234.github.io/news-arrow.png) no-repeat center center/contain;
+  background: url('https://Mito623.github.io/Mito6234.github.io/news-arrow.png') no-repeat center center/contain;
 }
 
 .news-item-left {
@@ -988,7 +988,7 @@ section {
 .faqs {
   height: 952px;
   margin-top: 0;
-  background: url(https://Mito623.github.io/Mito6234.github.io/qa-bg.png) no-repeat center center/cover;
+  background: url('https://Mito623.github.io/Mito6234.github.io/qa-bg.png') no-repeat center center/cover;
   padding-top: 60px;
 }
 
@@ -1241,7 +1241,7 @@ section {
   width: 100%;
   padding: 60px 0;
   margin-top: 255px;
-  background: url(https://Mito623.github.io/Mito6234.github.io/contact-bg.png) no-repeat center center/cover;
+  background: url('https://Mito623.github.io/Mito6234.github.io/contact-bg.png') no-repeat center center/cover;
 }
 
 @media screen and (max-width: 767px) {
@@ -1253,7 +1253,7 @@ section {
 
 .contact-head {
   max-width: 960px;
-  background: url(https://Mito623.github.io/Mito6234.github.io/contact1.png) no-repeat center center/cover;
+  background: url('https://Mito623.github.io/Mito6234.github.io/contact1.png') no-repeat center center/cover;
   padding: 60px 0;
   text-align: center;
   color: #FFF;
@@ -1351,7 +1351,7 @@ section {
   height: 40px;
   padding: .2em 12px;
   position: relative;
-  background: #fff url(https://Mito623.github.io/Mito6234.github.io/select-arrow.png) no-repeat right 12px center/12px 9.9px;
+  background: #fff url('https://Mito623.github.io/Mito6234.github.io/select-arrow.png') no-repeat right 12px center/12px 9.9px;
 }
 
 @media screen and (max-width: 767px) {
