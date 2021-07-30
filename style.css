@@ -681,6 +681,7 @@ section {
 .swiper-wrapper {
   width: 400px;
   height: 366px;
+}
   
 @media screen and (max-width: 767px) {
   .swiper-wrapper {
@@ -691,6 +692,7 @@ section {
 
 .swiper-slide {
   margin-right: 40px;
+}
   
  @media screen and (max-width: 767px) {
    .swiper-slide {
