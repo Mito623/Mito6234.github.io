@@ -685,8 +685,8 @@ section {
   
 @media screen and (max-width: 767px) {
   .swiper-wrapper {
-  width: 274px;
-  height: 253px;
+    width: 274px;
+    height: 253px;
   }
 }
 
