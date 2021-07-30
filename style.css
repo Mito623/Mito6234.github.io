@@ -681,10 +681,19 @@ section {
 .swiper-wrapper {
   width: 400px;
   height: 366px;
+  
+  @media screen and (max-width: 767px) {
+    width: 274px;
+    height: 253px;
+  }
 }
 
 .swiper-slide {
   margin-right: 40px;
+  
+    @media screen and (max-width: 767px) {
+      margin-right: 20px;
+  }
 }
 
 .results-item-link {
