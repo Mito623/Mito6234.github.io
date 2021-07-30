@@ -682,16 +682,18 @@ section {
   width: 400px;
   height: 366px;
   
-  @media screen and (max-width: 767px) {
-    width: 274px;
-    height: 253px;
+@media screen and (max-width: 767px) {
+  .swiper-wrapper {
+  width: 274px;
+  height: 253px;
   }
 }
 
 .swiper-slide {
   margin-right: 40px;
   
-    @media screen and (max-width: 767px) {
+ @media screen and (max-width: 767px) {
+   .swiper-slide {
       margin-right: 20px;
   }
 }
